@@ -1,0 +1,31 @@
+DESPRE JOC: 
+Grupa: 233
+Echipa : Nastase Alexandru, Simionescu Codrut, Budoi Andrei
+
+Slidey - joc casual singleplayer 3D arcade creat in Unity.
+
+-Player-ul, controlat cu ajutorul touch input-ului, se deplaseaza automat inainte pe o platforma, scopul fiind sa evite
+obstacolele pana la atingerea finish line-ului de la sf nivelului.
+-Jocul este structurat pe nivele. Pana la data lansarii vor fi aproximativ 30 de nivele, urmand sa fie adaugate mai multe ulterior.
+-Camera urmareste modelul 3D al jucatorului si se opreste atunci cand playerul atinge un obstacol si pierde
+exclusiv pe android
+-Jucatorul poate folosi doua butoane virtuale pentru a misca personajul in stanga sau in dreapta. 
+Daca modelul 3D al jucatorului atinge orice obstacol sau cade de pe platforma, nivelul se incheie, iar viteza scade treptat la 0.
+-Obstacolele sunt afectate de gravitatie. Astfel se pot misca atunci cand sunt lovite.
+-Jocul va avea un pause menu cu mai multe optiuni, cum ar fi: Restart level, Go to home menu, settings.
+-Canvas/UI pt fiecare scena(nivel).
+-Endless mode (cu counter pentru distanta parcursa/scorul obtinut).
+
+PROGRAME:
+
+Jocul este dezvoltat in Unity 3d engine.
+Photoshop pt elemente de design grafic.
+Unity collab pentru version control.
+Asana pentru team collaboration/task management/bug reporting.
+Blender pentru 3d modeling.
+
+SYSTEM REQUIREMENTS:
+
+Minim android 4.4/ recommended 8.0
+Minim 2gb ram
+Pana in 150mb memorie ocupata
